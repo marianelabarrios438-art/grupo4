@@ -1,0 +1,66 @@
+<html>
+  <head>
+    <title>TP N°1 - Fundamentos de Computación</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <header>
+      <h1>Carátula del Trabajo</h1>
+      <hr>
+      <ul>
+        <li><h2>Universidad:</h2> Universidad Autónoma de Entre Ríos</li>
+        <li><h2>Facultad:</h2> Facultad de Ciencia y Tecnología</li>
+        <li><h2>Carrera:</h2> Licenciatura en Sistemas de Información</li>
+        <li><h2>Cátedra:</h2> Fundamentos de Computación</li>
+        <li><h2>Trabajo Práctico:</h2> N°1 - Streaming de Videojuegos</li>
+        <li><h2>Profesores:</h2> Bioing. Ismael Cassi – Lic. Paolo Orundés Cardinali</li>
+        <li><h2>Integrantes del Grupo:</h2>
+                <ul>
+                    <li>Marianela Barrios</li>
+                    <li>Gerónimo Velázquez</li>
+                    <li>Nombre del Tercer Integrante</li>
+                    <li>Nombre del Cuarto Integrante</li>
+                </ul>
+            </li>
+        <li><h2>Comisión:</h2> Miércoles 15hs</li>
+        <li><h2>Fecha de Entrega:</h2> 27/09/2025</li>
+        <li><h2>Año Lectivo:</h2> 2025</li>
+      </ul>
+<section>
+  <h2>Requisitos Mínimos Realistas de CS2 (según chatGPT)</h2>
+  <ul>
+    <li>Sistema Operativo: Windows 10 (64 bits)</li>
+    <li>Procesador: Intel Core i3-4340 / AMD FX-6300 (4 núcleos / hilos reales)</li>
+    <li>Memoria RAM: 8 GB</li>
+    <li>Tarjeta gráfica: NVIDIA GTX 660 o AMD Radeon HD 7850 (≈ 1.5-2 GB VRAM, compatible con DX11)</li>
+    <li>DirectX: Versión 11</li>
+    <li>Almacenamiento libre: 85 GB (preferentemente en SSD para reducir tiempos de carga y stutters)</li>
+  </ul>
+</section>
+<section>
+  <h2>Requisitos Mínimos de Counter-Strike 2 (según Steam)</h2>
+  <ul>
+    <li>Sistema Operativo: Windows 10 (64 bits) :contentReference</li>
+    <li>Procesador: CPU con 4 hilos — Intel Core i5-750 o superior </li>
+    <li>Memoria RAM: 8 GB </li>
+    <li>Tarjeta gráfica: al menos 1 GB, compatible con DirectX 11 y Shader Model 5.0 </li>
+    <li>DirectX: versión 11</li>
+    <li>Almacenamiento libre: 85 GB</li>
+  </ul>
+</section>
+<section>
+  <h2>Necesidades Adicionales para la Transmisión</h2>
+  <ul>
+    <li><h2>Monitor:</h2> Recomendado un monitor Full HD (1080p) con al menos 144 Hz para aprovechar la fluidez de CS2. Opcionalmente, se puede utilizar un monitor de 240 Hz para un rendimiento superior.</li>
+    <li><h2>Teclado:</h2> Teclado gamer con buena respuesta y durabilidad, preferentemente mecánico, para mejorar la precisión en el juego.</li>
+    <li><h2>Mouse:</h2> Mouse gamer con alta tasa de sondeo (1000 Hz) y buena precisión, indispensable para shooters competitivos.</li>
+    <li><h2>Auriculares con micrófono integrado:</h2> Headset que combine calidad de sonido y micrófono aceptable para comunicación en el stream. Ejemplo: HyperX Cloud II, Logitech G Pro X.</li>
+    <li><h2>Cámara Web:</h2> Recomendada para mostrar al jugador en la transmisión. Ejemplo: Logitech C920 o Razer Kiyo.</li>
+    <li><h2>Luz LED:</h2> Iluminación adicional para mejorar la calidad de la imagen de la cámara durante el streaming.</li>
+  </ul>
+</section>
+    </header>
+  </body>
+</html>
+
+
