@@ -1,0 +1,279 @@
+<section>
+  <h2>Comparativa de Componentes de Hardware y Justificación</h2>
+  <ul>
+    <li><h2>Placa madre:</h2> 
+      <ul>
+        <li>Asus Prime B450M-A II CSM – $134,900 
+          <a href="https://fullh4rd.com.ar/prod/19401/mother-asus-prime-b450m-a-ii-csm">FullH4rd</a> 
+          <p>4 slots de RAM, buena disipación y soporte de expansión, ideal para CPU de 8 núcleos.</p>
+        </li>
+        <li>MSI B450M A-Pro MAX II – $102,209 
+          <a href="https://insumosacuario.com.ar/hardware/motherboard-amd/motherboard-msi-b450m-a-pro-max-ii-am4-2-color-negro-191225.html">Insumos Acuario</a>
+          <p>Modelo más básico pero suficiente para equipos con menor cantidad de periféricos.</p>
+        </li>
+      </ul>
+    </li>
+
+    <li><h2>Procesador (CPU):</h2>
+      <ul>
+        <li>Ryzen 7 5700 – $217,990 
+          <a href="https://www.integradosargentinos.com/shop/41031-procesadores-ryzen-7-5700-8c-3-7ghz-4-6ghz-20mb-cache-am4-s-video-100-100000743box-124064">Integrados Argentinos</a>
+          <p>8 núcleos / 16 hilos: permite jugar y streamear sin pérdida de rendimiento.</p>
+        </li>
+        <li>Ryzen 5 5600G – $183,179 
+          <a href="https://insumosacuario.com.ar/hardware/procesadores-amd/micro-procesador-amd-ryzen-5-5600g-4.4ghz-am4-radeon-vega-153743.html">Insumos Acuario</a>
+          <p>6 núcleos / 12 hilos con gráficos integrados, opción económica y versátil.</p>
+        </li>
+      </ul>
+    </li>
+
+    <li><h2>Memoria RAM:</h2>
+      <ul>
+        <li>2×16GB DDR4 3200MHz RGB – $100,000 
+          <a href="https://try.com.ar/memoria-hiksemi-ddr4-16gb-3200mhz-future-rgb/">Try</a>
+          <p>Disipación y estabilidad para multitarea exigente, ideal en streaming.</p>
+        </li>
+        <li>2×16GB DDR4 3200MHz sin disipador – $95,200 
+          <a href="https://spacegamer.com.ar/507539-componentes-de-pc-memoria-ram-hiksemi-16gb-hiker-3200mhz-ddr4">SpaceGamer</a>
+          <p>Menor costo, mismo rendimiento base; suficiente para la gama media.</p>
+        </li>
+      </ul>
+    </li>
+
+    <li><h2>Placa de video (GPU):</h2>
+      <ul>
+        <li>RTX 3050 StormX 6GB – $280,000 
+          <a href="https://logg.com.ar/ProductDetail/RTX-3050-StormX-6GB">Logg</a>
+          <p>Cuenta con NVENC, encoder de video ideal para streamear sin exigir la CPU.</p>
+        </li>
+        <li>RX 580 8GB – $173,792 
+          <a href="https://maxtecno.com.ar/producto/placa-de-video-rx-580-8gb-oem-2/">Maxtecno</a>
+          <p>Excelente rendimiento en 1080p, aunque sin encoder dedicado para streaming.</p>
+        </li>
+      </ul>
+    </li>
+
+    <li><h2>Almacenamiento:</h2>
+      <ul>
+        <li>SSD NVMe 1TB – $88,890 
+          <a href="https://katech.com.ar/producto/ssd-m-2-nvme-1tb-adata-legend-710/">Katech</a>
+          <p>Altísima velocidad, reduce los tiempos de carga del juego y del sistema operativo.</p>
+        </li>
+        <li>SSD SATA M.2 256GB – $28,420 
+          <a href="https://megasoftargentina.com.ar/rigidos---solidos/discos-m2/disco-ssd-m2-256gb-hiksemi-wave-sata-negro-180112.html">Megasoft</a>
+          <p>Solución económica para instalar Windows y uno o dos juegos.</p>
+        </li>
+	 <li>SSD SATA III 1TB – $79,643 
+   	   <a href="https://insumosacuario.com.ar/hardware/discos-solidos-sata/disco-ssd-patriot-960gb-sata3-2.5--burst-elite-sata-notebook--simil-1tb-192936.html">Insumos Acuario</a>
+    	  <p>Almacenamiento secundario ideal para grabaciones, archivos grandes y clips de streaming. (Para ambas pcs)</p>
+	</li>
+      </ul>
+    </li>
+
+    <li><h2>Fuente de alimentación (PSU):</h2>
+      <p>Thermaltake Smart 600W – $72,237 
+      <a href="https://thegamershop.com.ar/componentes-de-pc/fuentes-de-poder/fuente-gamer-thermaltake-smart-600w-ag80-plus-white-160059.html">The Gamer Shop</a></p>
+      <p>Se utiliza en ambas configuraciones para asegurar estabilidad y evitar sobrecalentamientos.</p>
+    </li>
+
+    <li><h2>Gabinete + Cooler:</h2>
+      <p>Raptor Vortex TG Mid-Tower RGB – $38,320 
+      <a href="https://silverhard.com/producto/gabinete-raptor-vortex-tg-mid-tower-rgb-back-fan-x1/">Silverhard</a></p>
+      <p>Diseño con buen flujo de aire y estética gamer. Incluye ventilador RGB trasero.</p>
+      <p>Cooler Evolabs Cryo 3H – $16,922 
+      <a href="https://www.scphardstore.com/producto/cpu-cooler-evolabs-cryo-3h-fixed-rgb-95w-am4-am5-lga1200-1700-1851/">SCP Hardstore</a></p>
+      <p>Mejora las temperaturas del CPU, ideal para sesiones largas de streaming.</p>
+    </li>
+  </ul>
+
+  <hr>
+
+<section>
+  <h2>Periféricos Recomendados para Streaming</h2>
+  <ul>
+<li><h2>Monitor:</h2> MSI PRO MP243L E14 24" Full HD (1920x1080) IPS 144Hz – $177,800 
+	<a href="https://maxtecno.com.ar/producto/monitor-msi-24-pro-mp243l-e14-1920x1080-ips-144hz/">MaxTecno</a>
+	<p>Monitor gamer con panel IPS de 24 pulgadas, resolución Full HD y frecuencia de 144 Hz. 
+	Ideal para aprovechar la tasa de FPS alta en CS2 y obtener una imagen fluida y nítida en el stream.
+	Brinda excelente relación entre calidad, tamaño y rendimiento visual, permitiendo una experiencia más competitiva 
+	y cómoda para largas sesiones de juego y transmisión.</p>
+</li>
+
+    <li><h2>Teclado:</h2> Raptor Fireclaw M68 (mecánico) – $29.000 
+      <a href="https://try.com.ar/teclado-gamer-mecanico-raptor-fireclaw-m68-retroiluminado-switch-red-outemu/">Try</a>
+      <p>Respuesta rápida y durabilidad para juego competitivo.</p>
+    </li>
+    <li><h2>Mouse:</h2> Razer DeathAdder Essential – $29.250 
+      <a href="https://gorilagames.com/522583-perifericos-razer-mouse-gamer-razer-deathadder-essential-black">Gorila Games</a>
+      <p>Buena ergonomía y precisión para shooters.</p>
+    </li>
+    <li><h2>Auriculares con micrófono:</h2> Redragon Ares H120 – $25.074 
+      <a href="https://insumosacuario.com.ar/audio/auriculares/auriculares-headset-gamer-redragon-ares-h120-pc-color-negro-198136.html">Insumos Acuario</a>
+      <p>Solución práctica: audio + micrófono integrado para comenzar a stremear.</p>
+    </li>
+    <li><h2>Cámara Web:</h2> Logitech C270 HD – $38.900 
+      <a href="https://www.integradosargentinos.com/shop/5870-camara-web-logitech-c270-hd-black-960-000694-109911#attr=">Integrados Argentinos</a>
+      <p>Calidad suficiente para cuadro de streamer a 720p.</p>
+    </li>
+  </ul>
+  <p>Los periféricos aplican a ambas configuraciones (Gama Alta y Gama Media). No impactan en los FPS del juego, pero sí en la calidad del stream (audio/video) y en la experiencia de juego.</p>
+</section>
+ <hr>
+<section>
+  <h2>Alternativas ante cortes de energía</h2>
+  <p>Para asegurar la continuidad del streaming y evitar daños por apagones, se recomienda el uso de una fuente de 
+  alimentación ininterrumpida (UPS) de al menos 700 VA. Este dispositivo permite mantener la computadora y el monitor 
+  encendidos durante 5 a 10 minutos ante cortes de energía eléctrica, brindando el tiempo necesario para guardar el 
+  trabajo, finalizar transmisiones y apagar el sistema de forma segura. Además, ayuda a estabilizar las variaciones 
+  de tensión, protegiendo los componentes internos de la PC.</p>
+</section>
+<hr>
+  <section>
+  <h2>Comparación de Rendimiento y Precios Totales</h2>
+  <ul>
+    <li><h2>PC Gama Alta</h2>
+      <p>Rendimiento estimado: 180–220 FPS en CS2 a 1080p (calidad Alta/Media-Alta) con streaming fluido vía NVENC.</p>
+      <p><b>Calidad de transmisión estimada:</b> 1080p60.</p>
+      <p>Precio total estimado: <b>$1,256,689</b></p>
+    </li>
+    <li><h2>PC Gama Económica</h2>
+      <p>Rendimiento estimado: 100–130 FPS en CS2 a 1080p (calidad Media/Baja) con stream estable usando encoder por GPU.</p>
+      <p><b>Calidad de transmisión estimada:</b> 720p60 (o 900p60 si el rendimiento lo permite).</p>
+      <p>Precio total estimado: <b>$1,089,946</b></p>
+    </li>
+  </ul>
+</section>
+
+  <hr>
+
+<section>
+  <h2>Software del Sistema</h2>
+  <ul>
+    <li><h2>Sistema Operativo:</h2> Windows 10 Pro 64 bits – $20.000 (licencia OEM aprox.)
+      <p>Se elige Windows 10 Pro por su amplia compatibilidad con drivers y juegos (incluido Counter-Strike 2), 
+      estabilidad para multitarea y soporte de las herramientas de streaming. Es una alternativa más accesible 
+      frente a Windows 11 manteniendo el mismo entorno de uso.</p>
+      <p><b>Nota:</b> si no se activa la licencia, Windows 10 sigue siendo funcional (con marca de agua y
+      opciones de personalización limitadas).</p>
+    </li>
+
+    <li><h2>Software de transmisión:</h2> OBS Studio
+      <p>Gratuito y de código abierto. Permite configurar escenas, superposiciones, capturas y transmisión a Twitch/YouTube
+      utilizando el encoder por GPU (NVENC/AMF) para mantener los FPS del juego.</p>
+    </li>
+
+    <li><h2>Otros complementos:</h2>
+      <ul>
+        <li>Steam (plataforma de juegos)</li>
+        <li>Drivers oficiales de NVIDIA/AMD</li>
+        <li>LibreOffice (suite ofimática gratuita) o Microsoft Office (pago)</li>
+        <li>Navegador Google Chrome</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+
+<hr>
+  <section>
+    <h2>Fuentes consultadas</h2>
+    <ul>
+      <li><a href="https://fullh4rd.com.ar/">FullH4rd</a></li>
+      <li><a href="https://insumosacuario.com.ar/">Insumos Acuario</a></li>
+      <li><a href="https://integradosargentinos.com/">Integrados Argentinos</a></li>
+      <li><a href="https://try.com.ar/">Try</a></li>
+      <li><a href="https://spacegamer.com.ar/">Space Gamer</a></li>
+      <li><a href="https://logg.com.ar/">Logg</a></li>
+      <li><a href="https://maxtecno.com.ar/">Maxtecno</a></li>
+      <li><a href="https://katech.com.ar/">Katech</a></li>
+      <li><a href="https://megasoftargentina.com.ar/">Megasoft Argentina</a></li>
+      <li><a href="https://thegamershop.com.ar/">The Gamer Shop</a></li>
+      <li><a href="https://silverhard.com/">Silverhard</a></li>
+      <li><a href="https://scphardstore.com/">SCP Hardstore</a></li>
+    </ul>
+  </section>
+<section>
+  <h2>Interacciones con la IA </h2>
+  <img src="InteraccionIA.png" alt="Capturas de interacción con la IA">
+</section>
+
+<hr>
+
+<section>
+  <h2>Comparativa: Ryzen 7 5700 vs. Ryzen 5 5600G</h2>
+<img src="comparativoia.png" alt="Captura comparación de la IA">
+<img src="comparativopag.png" alt="Captura comparación con página">
+<div>
+  <h2>Fuente para validar datos</h2>
+  <ul>
+    <li>
+      <a href="https://technical.city/es/cpu/Ryzen-7-5700-vs-Ryzen-5-5600G">
+        Technical City — Ryzen 7 5700 vs Ryzen 5 5600G
+      </a>
+    </li>
+  </ul>
+</div>
+
+  <div>
+    <h2>¿Qué elijo y por qué?</h2>
+ <p>Para <b>PC de gama alta</b>, elijo el <b>Ryzen 7 5700</b> por sus 8 núcleos extra — mayor capacidad de multitarea para streaming + juego junto.  
+    Para la <b>PC de gama media</b>, el <b>Ryzen 5 5600G</b> es una propuesta muy viable: económico, incluye gráficos integrados útiles como respaldo si la GPU dedicada falla, y ofrece un buen rendimiento general.</p>
+  </div>
+ <hr>
+<section>
+  <h2>Conceptos técnicos adicionales</h2>
+
+  <article>
+    <h2>¿Qué son los núcleos del procesador?</h2>
+    <p>Un <b>núcleo</b> (core) es una unidad de procesamiento dentro del CPU. Cada núcleo puede ejecutar instrucciones de manera independiente, 
+    funcionando como un pequeño procesador dentro del chip. Cuantos más núcleos tenga un CPU, más tareas puede realizar simultáneamente 
+    (multitarea) o ejecutar más hilos en paralelo si el software está preparado para ello.</p>
+
+    <p>En el contexto del streaming y los videojuegos, esto significa que algunos núcleos pueden dedicarse al juego mientras otros manejan 
+    la transmisión en OBS, el chat o el navegador. Además, cada núcleo puede ejecutar dos hilos con la tecnología de multithreading, 
+    aumentando el rendimiento sin duplicar el hardware físico.</p>
+
+    <h2>Explicado en lenguaje común:</h2>
+    <p>Imaginá que tu CPU es una oficina con empleados. Cada <b>núcleo</b> es un empleado que realiza una tarea distinta. 
+    Si solo tenés uno, hace todo y se sobrecarga rápido. Si tenés varios, se reparten el trabajo: uno se encarga del juego, 
+    otro del streaming, otro del sonido, etc. Más núcleos = más manos trabajando al mismo tiempo → mejor rendimiento y estabilidad 
+    cuando jugás y transmitís.</p>
+
+    <h2>Opinión personal:</h2>
+    <p> Mientras el procesador posea más núcleos, este será capaz de realizar más tareas de lo habitual simultáneamente y no se sobrecargará.
+    Esto permite una mayor estabilidad y fluidez para jugar y transmitir al mismo tiempo. </p>
+  </article>
+</section>
+
+<hr>
+
+<section>
+  <h2>Imagen generada por IA</h2>
+<img src="imggenerada.png" alt="Imagen generada por la IA para representación del proyecto" width="450">
+ <p><b>Título:</b> Set up de escritorio para streamer principiante</p>
+  <p><b>Prompt utilizado:</b> “Imagen de una chica de espaldas en una habitación con una computadora media gama jugando al cs2 mientras stremea. Que la habitación posea una iluminación oscura y resalte a la figura de la chica con la computadora de escritorio”</p>
+  <p><b>Explicación:</b> La imagen busca representar el entorno de trabajo de un streamer principiante, mostrando un set up accesible pero funcional.</p>
+</section>
+
+<hr>
+<section>
+  <h2>Conclusiones finales</h2>
+  <ul>
+    <li><h3>¿Cómo me ayudó la IA en este trabajo?</h3>
+      <p>Facilitó todo el trabajo. Me enseñó las cosas más básicas de crear un archivo HTML, la utilización de github y aprendí conceptos nuevos. 
+	Además, la IA me ayudó en la redacción y órden del trabajo para más prolijidad.</p>
+    </li>
+
+    <li><h3>¿Detectaste errores o información poco confiable? ¿Cómo lo resolviste?</h3>
+      <p>Error de cálculo con los componentes y el precio final de la computadora armada. Lo resolví calculándolo manualmente.</p>
+    </li>
+
+    <li><h3>¿En qué casos preferís buscar información manualmente en lugar de usar IA?</h3>
+      <p>En el armado de la pc. Utilicé la IA únicamente al final, pero me guié con la experiencia y conocimiento de personas allegadas a mí.
+	Estos mismos fueron capaces de explicarme qué hacía cada componente o qué brindaban aparte de recomendarme las páginas para la compra de los componentes y con precios accesibles.</p>
+    </li>
+  </ul>
+</section>
+
+</section>
+
